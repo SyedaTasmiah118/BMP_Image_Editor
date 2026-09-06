@@ -214,6 +214,79 @@ This warning helps users understand that:
 
 ---
 
+---
+
+## 📸 Application Screenshots
+
+The following screenshots demonstrate the main interface, responsive display behavior, image-processing operations, Undo system, and application dialogs.
+
+### Main Application Window
+<p align="center"><img src="screenshots/01-main-window.png" alt="Main application window" width="780"></p>
+
+### Image Opened
+<p align="center"><img src="screenshots/02-image-opened.png" alt="BMP image opened in the editor" width="780"></p>
+
+### Responsive Fit in a Small Window
+<p align="center"><img src="screenshots/03-responsive-fit-small-window.png" alt="Responsive image preview in a small window" width="780"></p>
+
+### Grayscale Result
+<p align="center"><img src="screenshots/04-grayscale-result.png" alt="Grayscale conversion result" width="780"></p>
+
+### Brightness Adjustment
+<p align="center"><img src="screenshots/05-brightness-dialog.png(1).png" alt="Brightness input dialog" width="780"></p>
+<p align="center"><em>Brightness input dialog</em></p>
+
+<p align="center"><img src="screenshots/05-brightness-result.png(2).png" alt="Brightness adjustment result" width="780"></p>
+<p align="center"><em>Result after applying the brightness adjustment</em></p>
+
+### Clear Undo History
+<p align="center"><img src="screenshots/06-clear-history.png" alt="Clear Undo History confirmation dialog" width="780"></p>
+
+### Horizontal Flip
+<p align="center"><img src="screenshots/07-horizontal-flip.png" alt="Horizontal flip result" width="780"></p>
+
+### Vertical Flip
+<p align="center"><img src="screenshots/08-vertical-flip.png" alt="Vertical flip result" width="780"></p>
+
+### 90-Degree Clockwise Rotation
+<p align="center"><img src="screenshots/09-rotate-90-clockwise.png" alt="90-degree clockwise rotation result" width="780"></p>
+
+### Crop Operation
+<p align="center"><img src="screenshots/10-crop-dialog.png(1).png" alt="Crop input dialog" width="780"></p>
+<p align="center"><em>Crop input dialog</em></p>
+
+<p align="center"><img src="screenshots/10-crop-result.png(2).png" alt="Crop operation result" width="780"></p>
+<p align="center"><em>Result after cropping the selected region</em></p>
+
+### 3 × 3 Blur Result
+<p align="center"><img src="screenshots/11-blur-result.png" alt="3 by 3 blur result" width="780"></p>
+
+### Sharpening Result
+<p align="center"><img src="screenshots/12-sharpen-result.png" alt="Image sharpening result" width="780"></p>
+
+### Image Inversion
+<p align="center"><img src="screenshots/13-inverted-image.png" alt="Inverted image result" width="780"></p>
+
+### Undo Result
+<p align="center"><img src="screenshots/14-undo-result.png" alt="Image state restored using Undo" width="780"></p>
+
+### Image Information Dialog
+<p align="center"><img src="screenshots/15-image-information-dialog.png" alt="Image Information dialog" width="780"></p>
+
+### Post-Save Options
+<p align="center"><img src="screenshots/16-post-save-options-dialog.png" alt="Post-save options dialog" width="780"></p>
+
+### Start New Session
+<p align="center"><img src="screenshots/17-start-new-dialog.png" alt="Start New confirmation dialog" width="780"></p>
+
+### Help Dialog
+<p align="center"><img src="screenshots/18-help-dialog.png" alt="Help dialog" width="780"></p>
+
+### About Dialog
+<p align="center"><img src="screenshots/19-about-dialog.png" alt="About dialog" width="780"></p>
+
+---
+
 ## 🔍 Image Display Logic
 
 The responsive display system follows this rule:
@@ -616,4 +689,3 @@ The project demonstrates:
 ## 📄 Academic Use
 
 This project was developed for academic and educational purposes as part of the **CSE1101L** course.
-
